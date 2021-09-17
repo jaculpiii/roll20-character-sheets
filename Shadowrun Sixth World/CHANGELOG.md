@@ -1,5 +1,7 @@
 Change Log
 ==============================================
+**2021-09-21 ** v.42 Chuz (James Culp)
+
 **2021-09-08 ** v.41 Chuz (James Culp)
 	Bugfix - Drone/Vehicle Initiative should have been normal Initiative but Pilot * 2 + 4d6.
 	Bugfix - Grunt template was applying wounds to Soak rolls.
